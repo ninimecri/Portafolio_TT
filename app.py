@@ -37,3 +37,10 @@ start_button = st.button('Ejecutar')
 
 if start_button:
     st.write(f'Experimento con {number_of_trials} intentos en curso.')
+    
+
+"[python]": {
+      "editor.defaultFormatter": "ms-python.autopep8"
+    }
+
+autopep8
